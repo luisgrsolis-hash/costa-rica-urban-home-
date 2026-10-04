@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700">
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#d7dbe2"/><stop offset="1" stop-color="#0b1220"/></linearGradient></defs>
+<rect width="1200" height="700" fill="url(#g)"/>
+<circle cx="980" cy="125" r="72" fill="#f4d35e" opacity=".9"/>
+<path d="M0 430 Q180 300 360 430 T720 420 T1200 400 V700 H0Z" fill="#a7a7a7"/>
+<path d="M0 440 L190 250 330 420 500 210 720 430 900 280 1200 450 V500 H0Z" fill="#8a5a24" opacity=".72"/>
+<g transform="translate(410 290)"><path d="M0 120 L190 0 380 120 V310 H0Z" fill="#f7efe2" stroke="#172033" stroke-width="10"/><path d="M-25 120 L190 -20 405 120" fill="#9b4d32" stroke="#172033" stroke-width="10"/><rect x="150" y="170" width="85" height="140" fill="#7b4f32"/><g fill="#9ed6e6" stroke="#172033" stroke-width="7"><rect x="45" y="155" width="75" height="65"/><rect x="265" y="155" width="75" height="65"/></g></g>
+<text x="60" y="90" fill="white" font-family="Arial, sans-serif" font-size="38" font-weight="700">Casa moderna</text>
+<text x="60" y="140" fill="#f6d365" font-family="Arial, sans-serif" font-size="28">Costa Rica Urban Home</text>
+<text x="1030" y="620" text-anchor="middle" font-size="70">🏠</text>
+</svg>
